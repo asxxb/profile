@@ -1,0 +1,4 @@
+# Treat image assets as binary: no line-ending conversion, no text diffs
+*.jpg  binary
+*.jpeg binary
+*.png  binary
